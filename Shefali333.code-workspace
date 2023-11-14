@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Dps_evaluation",
+			"path": "../../../password validator/Dps_evaluation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Shefali333"
+	}
+}
