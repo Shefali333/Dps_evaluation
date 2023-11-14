@@ -30,7 +30,7 @@ To use the password validation code, follow these steps:
 1. Include the JavaScript code in your project.
 2. Ensure you have the required HTML structure.
 3. Customize the file paths for CSS and icon resources, if necessary.
-4. Add the LiveServer extension in Visual Studio and launch local host server.
+4. Add the LiveServer Extension in Visual Studio and launch local host server(Port5500).
 5. Run your project and test the password validation by typing in the password field in the local host server.
 
 File Structure:-
@@ -38,3 +38,6 @@ File Structure:-
 index.html: The HTML file containing the password input field and requirements list.
 style.css: The CSS file containing styles for the HTML elements.
 script.js: The JavaScript file containing the password validation code.
+
+
+Goals not achieved::- Invalid passwords recognition using Dictionary API (WordsAPI).
